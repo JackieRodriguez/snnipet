@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<div class="slider-track"><div style="left: 0px; width: 11.25%;" class="slider-track-low"></div><div style="left: 11.25%; width: 63.75%;" class="slider-selection"></div><div style="right: 0px; width: 25%;" class="slider-track-high"></div><div tabindex="0" aria-valuenow="-155" style="left: 11.25%;" aria-valuemax="200" aria-valuemin="-200" role="slider" class="slider-handle min-slider-handle round"></div><div tabindex="0" aria-valuenow="100" style="left: 75%;" aria-valuemax="200" aria-valuemin="-200" role="slider" class="slider-handle max-slider-handle round"></div></div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bs-lte-slider-red</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

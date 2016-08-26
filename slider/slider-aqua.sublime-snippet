@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<div tabindex="0" aria-valuenow="-160" style="left: 10%;" aria-valuemax="200" aria-valuemin="-200" role="slider" class="slider-handle min-slider-handle round"></div>
+]]></content>
+
+</snippet>

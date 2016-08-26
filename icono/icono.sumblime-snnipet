@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+		<div class="col-md-3 col-sm-4"><i class="fa fa-fw fa-500px"></i> fa-500px</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	< <tabTrigger>bs-lte-icono</tabTrigger>	
+	<!-- <scope>source.python</scope> -->
+</snippet>
